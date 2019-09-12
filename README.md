@@ -1,0 +1,6 @@
+# word_mover_distance
+使用gensim的word2vec对word_mover_distance算法的使用
+
+需要先pip install jieba_fast和gensim
+
+在目录word2vec/下要放训练好的w2v向量文件
